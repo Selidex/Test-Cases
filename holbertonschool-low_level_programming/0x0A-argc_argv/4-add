@@ -1,0 +1,22 @@
+All test cases will be read into the file through command line
+
+We are given that all numbers and the addition of said numbers
+will be storable in an int so no need to worry about upper
+limits
+
+Base Case:
+./add 2 9 8
+
+
+Passed no numbers
+./add
+
+
+Passed invalid character
+
+./add 1 3 e 9
+
+
+Passed negative number
+./add 2 66 -8
+

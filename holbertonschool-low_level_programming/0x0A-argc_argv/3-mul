@@ -1,0 +1,30 @@
+All test cases will be read into the file through command line
+
+We are given that the numbers and their multiplication will be
+able to be stored into int so no need to account for upper or
+lower bounds (int does this for us)
+
+Base Case:
+
+./mul 7 9
+
+./mul -2 12
+
+./mul 13 0
+
+./mul -2 -16
+
+
+Incorrect number of commands passed
+
+./mul 1
+
+./mul 2 18 29
+
+
+
+Non-number passed
+
+./mul e 8
+
+

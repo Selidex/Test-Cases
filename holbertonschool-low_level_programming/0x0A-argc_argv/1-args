@@ -1,0 +1,4 @@
+All test cases will be passed to the file through command line
+
+Base Case:
+./nargs Anything and everything, should not be any special cases

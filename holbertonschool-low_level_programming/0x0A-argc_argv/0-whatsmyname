@@ -1,0 +1,4 @@
+There should not be anything special here, no arguments are passed
+so there should be no test case other than running your code both
+before and after changing the name. Remember it should work without
+re-compiling the code after changing the name.

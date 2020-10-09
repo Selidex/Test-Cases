@@ -1,0 +1,8 @@
+All test cases will passed to file through command line
+
+Base Case:
+./args Anything can go here really, even numbers 29 09
+
+
+No arguments passed:
+./args

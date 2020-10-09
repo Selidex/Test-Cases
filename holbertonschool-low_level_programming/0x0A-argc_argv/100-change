@@ -1,0 +1,34 @@
+All test cases will be read into a command line as the .c file is run.
+
+Base Case:
+
+./change 100
+
+
+
+Not exactly one command is passed:
+
+./change 100 2
+./change
+
+
+No number is passed, exactly one command is passed:
+
+./change bob
+
+
+Test to make sure you are extracting a number from the string using atoi:
+
+./change bob52
+
+
+Negative number is passed:
+
+./change bob-100
+
+./change -27
+
+
+
+Cases to think about but not present yet:
+Is there an upper limit to what they can pass you?

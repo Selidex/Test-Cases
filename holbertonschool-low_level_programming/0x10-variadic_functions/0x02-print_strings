@@ -1,0 +1,3 @@
+Same cases as 0 & 1 with following exception
+
+if a string in the argument is NULL print (nil)

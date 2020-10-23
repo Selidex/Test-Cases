@@ -1,0 +1,9 @@
+Given cases:
+
+Base case everything is good
+
+separator is NULL
+
+if n is 0 or less than arguments given should be handled by base code.
+
+if n is greater than arguments given? (do not know if they would give us that)
